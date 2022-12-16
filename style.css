@@ -1,0 +1,174 @@
+body {
+    height: 100%;
+    background: linear-gradient(135deg, rgba(63,94,251,1) 0%, rgba(252,70,193,1) 100%);
+    font-family: sans-serif;
+}
+
+.container {
+    width: 350px;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 2px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin: 15px auto;
+    padding-top: 40px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 175px;
+}
+
+.form {
+    margin: 35px;
+    text-align: center;
+    display: inline-block;
+}
+
+.form input {
+    width: 280px;
+    height: 40px;
+    margin: 4px 0;
+    background: rgba( 255, 255, 255, 0.6 );
+    /* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
+    box-shadow: none;
+    backdrop-filter: blur( 8px );
+    -webkit-backdrop-filter: blur( 8px );
+    border-radius: 3px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    font-size: 12px;
+    color: black;
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+
+.form p {
+    text-align: center;
+    font-size: 12px;
+    margin: 15px 0 20px 0;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.603);
+}
+
+.form .btn {
+    width: 280px;
+    height: 30px;
+    background-color: rgb(19, 117, 230);
+    color: #fafafa;
+    border-radius: 5px;
+    border: none;
+    margin: 10px 0 5px 0;
+    font-weight: bold;
+    box-shadow: none;
+}
+
+.login-text {
+    padding: 10px 0;
+    line-height: 20px;
+}
+
+.login-text img {
+    height: 16px;
+    border-radius: 1px;
+    line-height: 14px;
+}
+
+.login-text a {
+    font-size: 15px;
+    font-weight: 510;
+    color: #395898;
+    line-height: 16px;
+}
+
+.form .login-text {
+    margin: 30px 0 50px 0;
+    font-weight: 600;
+}
+
+.form .fgt-pass {
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 20px;
+    color: #395898;
+    display: inline-block;
+}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+
+.sign-up {
+    margin: 20px 0;
+    width: 350px;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 8px );
+    -webkit-backdrop-filter: blur( 8px );
+    border-radius: 2px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin: 15px auto;
+    text-align: center;
+}
+
+.sign-up a {
+    font-weight: 550;
+    color: #395898;
+}
+
+.sign-up p {
+    margin: 20px 0;
+    font-size: 14px;
+}
+
+.get-app {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.get-app p {
+    font-size: 14px;
+}
+
+.get-app .playstore {
+    width: 135px;
+}
+
+.get-app .windows {
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
